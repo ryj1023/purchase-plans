@@ -1,45 +1,45 @@
 .container {
-	height: 100vh;
+    height: 100vh;
 }
 
 .card-col {
-	box-shadow: 0px 8px 30px 2px #888888;
+    box-shadow: 0px 8px 30px 2px #888888;
 }
 
 .platinum {
-	transform: scale(1.05) !important;
-	z-index: 2 !important;
-	background: white;
+    transform: scale(1.05) !important;
+    z-index: 2 !important;
+    background: white;
 }
 
 .image {
-	width:100%;
-	height: auto;
+    width:100%;
+    height: auto;
 }
 
 .card-row {
-	height: 80% !important;
+    height: 80% !important;
 }
 
 h1 {
-	color: #4CA64C;
-	font-size: 1.5rem;
+    color: #4CA64C;
+    font-size: 1.5rem;
 }
 
 p, li {
-	font-size: 0.8rem !important;
+    font-size: 0.8rem !important;
 }
 
 
 ul {
-  list-style-type: none;
+    list-style-type: none;
 }
 
 .purchase-button{
-	padding: 10px 40px 10px 40px;
+    padding: 10px 40px 10px 40px;
     position: relative;
     top: 8px;
-	text-align: center;
+    text-align: center;
     cursor: pointer;
     color: black;
     background: white;
@@ -49,17 +49,17 @@ ul {
 }
 
 .platinum-button {
-	background: #4CA64C !important;
+    background: #4CA64C !important;
 }
 
 .oi {
-	color: #c3c0c0;
+    color: #c3c0c0;
 }
 
 .green-check {
-	color: #4CA64C !important;
+    color: #4CA64C !important;
 }
 
 .card-heading {
-	color: #c3c0c0 !important;
+    color: #c3c0c0 !important;
 }
